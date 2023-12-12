@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "SY9kTmsQIR/Is+PZy4o90tLtCl4f+2ggDZuZ0kzMBx6F9Q0G3nJGSq5aWyLqNpG9kPSndp+S6/tGZvPMZ0w7SQ==",
+  "success": true,
+  "projectFilePath": "/Users/pratik/Library/CloudStorage/GoogleDrive-pratikpatel26120@gmail.com/My Drive/University of Illinois at Chicago - UIC/Fall Credit 2023/CS 341 - Programming Language Concepts/Project 02 - Image Processing/Project-02/ImageApp/ImageApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/pratik/.nuget/packages/fsharp.core/7.0.401/fsharp.core.7.0.401.nupkg.sha512",
+    "/Users/pratik/.nuget/packages/microsoft.netcore.app/2.1.0/microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "/Users/pratik/.nuget/packages/microsoft.netcore.dotnetapphost/2.1.0/microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "/Users/pratik/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.1.0/microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "/Users/pratik/.nuget/packages/microsoft.netcore.dotnethostresolver/2.1.0/microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "/Users/pratik/.nuget/packages/microsoft.netcore.platforms/2.1.0/microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "/Users/pratik/.nuget/packages/microsoft.netcore.targets/2.1.0/microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "/Users/pratik/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
